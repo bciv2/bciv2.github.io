@@ -1,0 +1,10 @@
+\begin{tabular}{|l|l|}\hline
+{\bf Software} & {\bf Version} \\ \hline\hline
+Python & 2.7.5+ (default, Feb 27 2014, 19:37:08) [GCC 4.8.1] \\ \hline
+IPython & 2.0.0 \\ \hline
+OS & posix [linux2] \\ \hline
+numpy & 1.8.1 \\ \hline
+scipy & 0.13.3 \\ \hline
+matplotlib & 1.3.1 \\ \hline
+\hline \multicolumn{2}{|l|}{Tue Apr 22 10:44:44 2014 JST} \\ \hline
+\end{tabular}
